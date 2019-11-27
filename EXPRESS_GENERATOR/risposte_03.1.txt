@@ -1,0 +1,8 @@
+1) ad automatizzare le procedure base creando uno scheletro del programma
+2) utilizzando express --view=pug --git
+3) views contiene le pagine pug, public contiene tutti i file statici,
+    routes contiene i file js
+4) entry point dove parte tutto il programma
+5) perché se no viene troppo lungo e non si capisce più niente
+6) route.get()
+7) importanto il file js e poi fare app.use e passare come parametro il file importato
